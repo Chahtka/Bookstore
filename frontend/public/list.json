@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "name" : "Story Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 2,
+        "name" : "Sports Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 50,
+        "category" : "Sports",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 3,
+        "name" : "Story Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 4,
+        "name" : "Music Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 100,
+        "category" : "Song",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 5,
+        "name" : "Story Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 6,
+        "name" : "Story Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+        },
+    {
+        "id" : 7,
+        "name" : "Food Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 200,
+        "category" : "Food",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 8,
+        "name" : "Story Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 9,
+        "name" : "Comedy Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 20,
+        "category" : "Entertainment",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    },
+    {
+        "id" : 10,
+        "name" : "Story Book", 
+        "title" : "Its a really amazing book available freely for you.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+    }
+]
